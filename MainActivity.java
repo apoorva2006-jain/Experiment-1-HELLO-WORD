@@ -1,4 +1,4 @@
-package com.example.myapplicationexp1;
+package com.example.exp1helloworld;
 
 import android.os.Bundle;
 
